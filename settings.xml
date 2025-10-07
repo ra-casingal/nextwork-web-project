@@ -8,23 +8,23 @@
 </servers>
 <profiles>
   <profile>
-    <id>nextwork-nextwork-devops-cicd</id>
+    <id>nextwork-devops-challenge-cicd-nextwork-devops-challenge-cicd</id>
     <activation>
       <activeByDefault>true</activeByDefault>
     </activation>
     <repositories>
       <repository>
-        <id>nextwork-nextwork-devops-cicd</id>
-        <url>https://nextwork-devops-challenge-109625812894.d.codeartifact.us-east-1.amazonaws.com/maven/nextwork-devops-challenge-cicd/</url>
+        <id>nextwork-devops-challenge-cicd-nextwork-devops-challenge-cicd</id>
+        <url>https://nextwork-devops-challenge-cicd-109625812894.d.codeartifact.us-east-1.amazonaws.com/maven/nextwork-devops-challenge-cicd/</url>
       </repository>
     </repositories>
   </profile>
 </profiles>
 <mirrors>
   <mirror>
-    <id>nextwork-nextwork-devops-cicd</id>
-    <name>nextwork-nextwork-devops-cicd</name>
-    <url>https://nextwork-devops-challenge-109625812894.d.codeartifact.us-east-1.amazonaws.com/maven/nextwork-devops-challenge-cicd/</url>
+    <id>nextwork-devops-challenge-cicd-nextwork-devops-challenge-cicd</id>
+    <name>nextwork-devops-challenge-cicd-nextwork-devops-challenge-cicd</name>
+    <url>https://nextwork-devops-challenge-cicd-109625812894.d.codeartifact.us-east-1.amazonaws.com/maven/nextwork-devops-challenge-cicd/</url>
     <mirrorOf>*</mirrorOf>
   </mirror>
 </mirrors>
